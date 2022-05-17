@@ -10,10 +10,10 @@
 ## Related Theory Concept:
 
 ## Algorithm
-1.
-2.
-3.
-4.
+1. Import necessary packages
+2. Set the four different states of the XOR gate
+3. Set the four expected results in the same order
+4. Get the accuracy
 
 ## Program:
 ```
